@@ -1,0 +1,21 @@
+lightgbm==4.5.0
+scikit-learn==1.5.2
+pandas==2.2.2
+numpy==1.26.4
+joblib==1.4.2
+
+Web & API
+requests==2.32.3
+urllib3==2.2.3
+
+Frontend & Vizualizare
+streamlit==1.39.0
+plotly==5.24.1
+matplotlib==3.9.2
+folium==0.15.0
+streamlit-folium==0.24.0
+streamlit-autorefresh==0.1.6
+
+Utilitare
+python-dateutil==2.9.0
+tqdm==4.66.4
